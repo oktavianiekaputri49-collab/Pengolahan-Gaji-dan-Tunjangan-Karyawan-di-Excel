@@ -1,0 +1,36 @@
+📊 Pengolahan Gaji dan Tunjangan Karyawan di Excel
+Deskripsi
+Proyek ini berfokus pada pengolahan data gaji dan tunjangan karyawan menggunakan Microsoft Excel berdasarkan golongan dan status pernikahan. Data dihitung secara otomatis menggunakan tabel referensi agar lebih akurat dan terstruktur.
+
+Dataset
+Data terdiri dari:
+Golongan karyawan
+Status (Nikah / Belum)
+Gaji pokok
+Tunjangan
+
+Tabel referensi:
+Tabel golongan dan gaji pokok
+Tabel tunjangan berdasarkan status
+
+Tools & Teknik yang Digunakan
+Microsoft Excel
+Fungsi lookup (VLOOKUP / HLOOKUP)
+Pengolahan data berbasis tabel
+Perhitungan otomatis gaji dan tunjangan
+
+Hasil
+Gaji pokok berhasil ditentukan berdasarkan golongan
+Tunjangan dihitung sesuai status karyawan
+Data tersusun rapi, akurat, dan mudah dipahami
+
+Tujuan Proyek
+Melatih penggunaan fungsi lookup di Excel
+Memahami pengolahan data berbasis referensi
+Meningkatkan ketelitian dalam perhitungan data keuangan
+
+Insight
+Penggunaan tabel referensi dan fungsi lookup sangat membantu dalam mengotomatisasi perhitungan data serta mengurangi kesalahan dalam pengolahan data keuangan.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pengolahan data menggunakan Microsoft Excel sebagai bagian dari pengembangan skill di bidang data.
